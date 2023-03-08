@@ -5,7 +5,7 @@ body {
 }
 
 .content {
-    background: url('/img/bg.png');
+    background: url('img/bg.png');
     background-color: #AC5412;
     background-blend-mode: hard-light;
     height: 100svh;
